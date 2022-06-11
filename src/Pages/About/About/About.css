@@ -1,0 +1,11 @@
+.about-description{
+    font-size: 26px;
+    text-align: justify;
+}
+
+.about{
+    background: #d1d1d130;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
